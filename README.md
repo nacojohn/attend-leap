@@ -1,3 +1,3 @@
 READ ME!
 
-This is a simple project that creates an attendance Image of Participants for YSB2017
+This is a simple project that creates an attendance Image of Participants for LeAP2017
